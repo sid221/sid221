@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sid221
-- 👀 I’m interested in JavaScript based technologies.
+- 👀 I’m interested in JavaScript based technologies specially React.
 - 🌱 I’m currently learning NodeJs Test Driven Development 
-- 💞️ I’m looking to collaborate on React projects
+- 💞️ Reach out to collaborate on React cool projects
 - 📫 How to reach me sudhanshu221b@gmail.com
 
 <!---
