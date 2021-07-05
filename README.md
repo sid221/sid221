@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sid221
+- 👋 Hi, I’m Sudhanshu.
 - 👀 I’m interested in JavaScript based technologies specially React.
 - 🌱 I’m currently learning NodeJs Test Driven Development 
 - 💞️ Reach out to collaborate on React cool projects
