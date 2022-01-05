@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudhanshu.
 - 👀 I’m interested in JavaScript based technologies specially React.
-- 🌱 I’m currently learning NodeJs Test Driven Development 
+- 🌱 I’m currently learning React Native and NodeJs 
 - 💞️ Reach out to collaborate on React cool projects
 - 📫 How to reach me sudhanshu221b@gmail.com
 
