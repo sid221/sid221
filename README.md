@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudhanshu.
 - 👀 I’m interested in JavaScript based technologies specially React.
-- 🌱 I’m currently learning React Native and NodeJs 
+- 🌱 I’m currently learning Typescript and advance animation and UI
 - 💞️ Reach out to collaborate on React cool projects
 - 📫 How to reach me sudhanshu221b@gmail.com
 - 🔗 Website https://sudhanshu221b.com
